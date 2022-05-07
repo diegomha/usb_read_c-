@@ -28,7 +28,14 @@ namespace read_usb
             // Begin communications 
             port.Open();
             // Enter an application loop to keep this thread alive 
-            Console.ReadLine();
+            
+        writeGT:
+            string writeData = Console.ReadLine();
+
+            port.WriteLine(writeData);
+
+            goto writeGT;
+
         }
 
         private static void port_DataReceived(object sender, SerialDataReceivedEventArgs e)

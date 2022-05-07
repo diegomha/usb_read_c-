@@ -5,3 +5,10 @@ C:\Users\diego\source\repos\read-usb\read-usb\obj\Debug\read-usb.csprojAssemblyR
 C:\Users\diego\source\repos\read-usb\read-usb\obj\Debug\read-usb.csproj.CoreCompileInputs.cache
 C:\Users\diego\source\repos\read-usb\read-usb\obj\Debug\read-usb.exe
 C:\Users\diego\source\repos\read-usb\read-usb\obj\Debug\read-usb.pdb
+C:\Users\diego\Desktop\usb_read\usb_read_c-\read-usb\bin\Debug\read-usb.exe.config
+C:\Users\diego\Desktop\usb_read\usb_read_c-\read-usb\bin\Debug\read-usb.exe
+C:\Users\diego\Desktop\usb_read\usb_read_c-\read-usb\bin\Debug\read-usb.pdb
+C:\Users\diego\Desktop\usb_read\usb_read_c-\read-usb\obj\Debug\read-usb.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\usb_read\usb_read_c-\read-usb\obj\Debug\read-usb.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\usb_read\usb_read_c-\read-usb\obj\Debug\read-usb.exe
+C:\Users\diego\Desktop\usb_read\usb_read_c-\read-usb\obj\Debug\read-usb.pdb
